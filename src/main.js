@@ -18,7 +18,7 @@ const networkPositionY = 0;
 const ballSize = 10;
 let racketEffect = 0.3;
 let diferencaY;
-let velocidadeJogador2 = 5;
+let speedPlayer2 = 5;
 
 gamerOne();
 run();
