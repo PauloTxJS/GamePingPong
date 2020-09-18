@@ -4,10 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat; 
     background-attachment: fixed;
-
-    margin:auto;
     text-align: center;
-    margin-top:5%;
 }
 
 h1 {
@@ -34,3 +31,4 @@ button:hover {
 .stop {
     margin:0px;
 }
+

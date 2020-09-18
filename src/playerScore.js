@@ -34,8 +34,4 @@ const playerScore = () => {
 		}
 	}
 
-	// if (playerScore1 > 0 && playerScore1 % 3 === 0) {
-	// 	speedPlayer2++;
-	// 	drawingArea.fillText(`Vamos para o próximo nível`, fieldWidth / 2, fieldHeight / 2);
-	// }
 }
